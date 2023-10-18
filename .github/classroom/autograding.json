@@ -3,7 +3,7 @@
     {
       "name": "Codeforces_round_898_partA",
       "setup": "",
-      "run": "./ShortSort",
+      "run": "g++ ShortSort.cpp -o ShortSort && ./ShortSort",
       "input": "6\r\nabc\r\nacb\r\nbac\r\nbca\r\ncab\r\ncba",
       "output": "YES\r\nYES\r\nYES\r\nNO\r\nNO\r\nYES",
       "comparison": "exact",
