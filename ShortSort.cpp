@@ -15,7 +15,7 @@ void solve() {
     if(count <= 2) {
         cout << "YES" << "\n";
     }else {
-        cout << "No" << "\n";
+        cout << "NO" << "\n";
     }
 }
 
